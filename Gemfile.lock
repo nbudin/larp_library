@@ -189,7 +189,7 @@ GEM
       railties (>= 6.1)
     drb (2.2.1)
     e2mmap (0.1.0)
-    erubi (1.13.0)
+    erubi (1.13.1)
     factory_bot (6.4.6)
       activesupport (>= 5.0.0)
     factory_bot_rails (6.4.3)
@@ -229,7 +229,7 @@ GEM
       json-jwt
       omniauth-oauth2
     io-console (0.7.2)
-    irb (1.14.2)
+    irb (1.14.3)
       rdoc (>= 4.0.0)
       reline (>= 0.4.2)
     jaro_winkler (1.5.6)
@@ -252,7 +252,7 @@ GEM
     listen (3.9.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
-    logger (1.6.4)
+    logger (1.6.5)
     lograge (0.14.0)
       actionpack (>= 4)
       activesupport (>= 4)
@@ -329,7 +329,7 @@ GEM
       method_source (~> 1.0)
     pry-rails (0.3.11)
       pry (>= 0.13.0)
-    psych (5.2.1)
+    psych (5.2.2)
       date
       stringio
     public_suffix (5.0.0)
